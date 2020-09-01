@@ -1,0 +1,7 @@
+domain: rackow.io
+layout: go.kubebuilder.io/v2
+projectName: bug-bounty-operator
+repo: github.com/RiRa12621/bug-bounty-operator
+version: 3-alpha
+plugins:
+  go.sdk.operatorframework.io/v2-alpha: {}
